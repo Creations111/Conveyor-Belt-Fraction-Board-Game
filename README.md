@@ -61,3 +61,6 @@ Player 2 Keypad ──┘         │
                                                     │
                                               Score ≥ 12? ──► Display Winner ──► Auto-Reset
 ```
+**Game Flow:**
+1. A fraction addition problem appears on both LCD screens.
+2. 
