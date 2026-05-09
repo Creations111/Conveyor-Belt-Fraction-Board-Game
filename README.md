@@ -63,4 +63,39 @@ Player 2 Keypad ──┘         │
 ```
 **Game Flow:**
 1. A fraction addition problem appears on both LCD screens.
-2. 
+2. The first team to enter the correect answer (numerator then denominaotr via the keypad) wins the round.
+3. If incorrect, the opposing team gets a chance. If neither is correct. the game will mover on.
+4. A correct answer triggers ther LED spinner, which randomly stops on a section valued from (1-3)
+5. The winning team's conveyor belt advances by that number of steps.
+6. First team to reach position 12 wins - both LCDs announces the winner and both belts then reset.
+
+---
+
+## Software
+
+**Language used:** MicroPython on Raspberry Pi Pico
+
+**Key library:** Asyncio - enables both keypads to read inpiut simultaneously on seperate threads, which was critical since both players must be able to type answers at the same time.
+
+**Core logic modules:**
+- Fraction question generator
+- Keypad input handler (async, per player)
+- Answer checker (validates numerator + denominator)
+- Spinner controller (randomized LED sequence + stop)
+- Motor driver interface (step count results in belt movement)
+- Win condition checker + auto-reset routine
+
+---
+
+## Enclosure & Fabrication
+
+- **Box:** 14x14x4 laser-cut pluywood, designed in AutoCAD with notched joints. Metal hinge fitted from the Wood Shop.
+- **Top panel** Two rectangular conveyuor belt openings, triangular LCD holder moounts, wire pass-through holes for keypads, spinner cutout in the center for spinner
+- **Spinner** 5.2x5.2x2 laser-cut plywood with 8 sections valued from 1-3, each with an LED beneath.
+- **Conveyor belts:** Rubber with sandpaper-wrapped 3D printed dowels for traction; Velcro ends loop velcro on belt to secure game pieces. Dowel stands were designed in two ways
+  1. Normal stand: Has enough clearance to connect the dowel extrudes to it
+  2. Stands with motor holder: Normal stand function but with a extruded motor holder stand to          keep everything stable
+- **Numberpad shells:** 3D printed in two parts (sliding casing) to protect and mount keypads to the enclosure sides.
+- **Game pieces:** Original 3D models + pop0culture characters chosen by the player's interests
+- **Decoration:** Acrylic marker + watercolor meadow theme on top; clay flowers on sides; 3D printed bee/chick figurines; finish-line banner prints.
+- **Brochures:** Bilingual (English + Spanish) instruction brochures printed for student use. 
