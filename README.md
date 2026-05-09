@@ -79,7 +79,10 @@ Player 2 Keypad ──┘         │
 
 **Core logic modules:**
 - Fraction question generator
-- Keypad input handler (async, per player)
+- Keypad input handler (asyncio
+-
+-
+- , per player)
 - Answer checker (validates numerator + denominator)
 - Spinner controller (randomized LED sequence + stop)
 - Motor driver interface (step count results in belt movement)
@@ -95,7 +98,7 @@ Player 2 Keypad ──┘         │
 - **Conveyor belts:** Rubber with sandpaper-wrapped 3D printed dowels for traction; Velcro ends loop velcro on belt to secure game pieces. Dowel stands were designed in two ways
   1. Normal stand: Has enough clearance to connect the dowel extrudes to it
   2. Stands with motor holder: Normal stand function but with a extruded motor holder stand to          keep everything stable
-  3. Rectangular enclosure on the bottom hollowed out with triangular cuts to allow triangular          pieces to be put into the stands without disruptions, allowing for stability as motor moves. 
+  3. Rectangular ratchet enclosure on the bottom hollowed out with triangular cuts to allow          triangular pieces to be put into the stands without disruptions, allowing for stability as      motor moves. 
 - **Numberpad shells:** 3D printed in two parts (sliding casing) to protect and mount keypads to the enclosure sides.
 - **Game pieces:** Original 3D models + pop0culture characters chosen by the player's interests
 - **Decoration:** Acrylic marker + watercolor meadow theme on top; clay flowers on sides; 3D printed bee/chick figurines; finish-line banner prints.
@@ -116,3 +119,26 @@ Player 2 Keypad ──┘         │
 Math, competitiveness, and hands on goals were best met. Hands-on and teamwork scores were lower - attributed to small sample size (9 collected but 2 were unusable), incomplete responses, and match imbalances where strongert players dominated. 
 
 ---
+
+## Team Contributions
+
+| Member | Role | Key Contributions |
+|---|---|---|
+| **Jonathan Lin** | CAD Lead / Project Manager | Solidworks parts + full assembly, box + conveyor belt design, game pieces, team coordination, conveyor belt tensioning, provided support on electronical wiring and software |
+| **Jonathan Li** | Data-Notes taker / Project Manager | Ratchet frame design, conveyor belt tensioning, Velcro stitching, daily logs |
+| **Dorian Mitchell** | Electronics + Firmware Lead / Project Manager | DC motor wiring + motor driver, I2C keypad/LCD wiring, full game logic in MicroPython, asyncio threading |
+| **Elene Tsakadze** | Electrical + Aesthetics / Project Manager | LCD/keypad wiring, LED spinner code, 3D printed game pieces + decorations, troubleshooting code |
+| **Sophia Zheng** | Enclosure Lead / Project Manager | Laser-cut enclosure across all iterations, numberpad casing CAD, hinge installation, painting |
+
+---
+
+## Challenges & Recommendations
+
+**Challenges faced:**
+- Conveyor belt slippage: the sandpaper on dowels created enough friction, but belts still drifted sidewasy without any guides due to motor speed & stand placements.
+- Spinner added late in the project - caused wiring and coding rework under deadline pressure.
+- Parallel input - resolved by using asyncio so both keypads could be read simultaneously.
+- Wire Management - some wires were exposed as the keypads were external, drawing criticism during showcase; future builds should route those wires internally or cover with electrical tape.
+
+  **If we started over:**
+  
