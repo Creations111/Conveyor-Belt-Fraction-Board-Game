@@ -95,7 +95,24 @@ Player 2 Keypad ──┘         │
 - **Conveyor belts:** Rubber with sandpaper-wrapped 3D printed dowels for traction; Velcro ends loop velcro on belt to secure game pieces. Dowel stands were designed in two ways
   1. Normal stand: Has enough clearance to connect the dowel extrudes to it
   2. Stands with motor holder: Normal stand function but with a extruded motor holder stand to          keep everything stable
+  3. Rectangular enclosure on the bottom hollowed out with triangular cuts to allow triangular          pieces to be put into the stands without disruptions, allowing for stability as motor moves. 
 - **Numberpad shells:** 3D printed in two parts (sliding casing) to protect and mount keypads to the enclosure sides.
 - **Game pieces:** Original 3D models + pop0culture characters chosen by the player's interests
 - **Decoration:** Acrylic marker + watercolor meadow theme on top; clay flowers on sides; 3D printed bee/chick figurines; finish-line banner prints.
-- **Brochures:** Bilingual (English + Spanish) instruction brochures printed for student use. 
+- **Brochures:** Bilingual (English + Spanish) instruction brochures printed for student use.
+
+---
+
+## Survey Results (n = 7 usable responses)
+
+| Goal | Metric | Score (out of 10) |
+|---|---|---|
+| Teaches Math | Math skills were challenged, math questions were a bit too hard | **7** |
+| Comeptitive | Opponents encouraged more engagement | **6.5** |
+| Engaging | Fun while playing | **6.6** |
+| Team based | Benefited from having teammates | **6** |
+| Hands on | Game could be controlled by players | **7.5** |
+
+Math, competitiveness, and hands on goals were best met. Hands-on and teamwork scores were lower - attributed to small sample size (9 collected but 2 were unusable), incomplete responses, and match imbalances where strongert players dominated. 
+
+---
