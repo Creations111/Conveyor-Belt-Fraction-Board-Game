@@ -1,4 +1,4 @@
-#Fraction Frenzy - STEM Education Game
+# Fraction Frenzy - STEM Education Game
 **Cornerstone of Engineering II - Northeastern University**
 *Jonathan Li, Jonathan Lin, Dorian Mitchell, Elene Tsakadze, Sophia Zheng | April 2026*
 
