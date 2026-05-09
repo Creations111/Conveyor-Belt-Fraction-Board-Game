@@ -24,3 +24,9 @@ Fifth graders at the Melrose Leadership Academy were identified as struggling sp
 - Player types answers on keypad
 - Correct answer triggers spinner
 - Spinner result moves conveyor belt
+
+Two conveyor belts run in parallel, one per team. A central spinner (with 8 LED-lit sections valued from 1-3) determiens how many steps a correct team advances. The game then resets automatically when a winner is declared. 
+
+---
+
+## Hardware Componenets 
