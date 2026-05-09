@@ -52,3 +52,12 @@ Two conveyor belts run in parallel, one per team. A central spinner (with 8 LED-
 
 ## How It Works
 
+```
+Player 1 Keypad ──┐
+                   ├──► Raspberry Pi Pico ──► Check Answer
+Player 2 Keypad ──┘         │
+                             ├── Correct  ──► Spin LED Wheel ──► Move Conveyor Belt
+                             └── Incorrect ──► Next Question
+                                                    │
+                                              Score ≥ 12? ──► Display Winner ──► Auto-Reset
+```
