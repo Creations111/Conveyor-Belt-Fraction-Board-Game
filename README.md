@@ -43,7 +43,7 @@ Two conveyor belts run in parallel, one per team. A central spinner (with 8 LED-
 | Jumper Wires | Many | GPIO connections |
 | Laser-cut Plywood Enclosure (14x14x4) | 1 | Main game baord housing |
 | 3D Printed Parts | Several | Numberpad shells, LCD holders, game pieces, spinner mounts, dowel, dowel stands |
-| Velcro Conveyor Belt (rubber + sandpaper) | 2 | Player point tracking and movement to end and back |
+| Velcro Conveyor Belt (rubber + sandpaper) | 2,4 | Player point tracking and movement to end and back |
 | Acrylic paint, clay, watercolor | N/A | Meadow-themed decoration |
 
 **Total Team Spend: $64 out of pocket ($135 total value)**
