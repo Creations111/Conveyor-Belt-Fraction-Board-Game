@@ -30,3 +30,25 @@ Two conveyor belts run in parallel, one per team. A central spinner (with 8 LED-
 ---
 
 ## Hardware Componenets 
+
+| Component | Qty | Purpose |
+|---|---|---|
+| Raspberry Pi Pico | 1 | Main micrcontroller: it runs all game logic |
+| 20x4 LCD with I2C adapter | 2 | Player input for fraction answers |
+| 4x4 Matrix Keypad with I2C adapter | 2 | Player input for fraction asnwers |
+| DC Motor + TB6612FNG Motor Driver from SparkFun | 2 | Drive the conveyor belts |
+| LEDs (220ohm resistors) | 8 | Illuminate spinner sections |
+| Breadboards | 2 | Components are wired to this |
+| 6x AA Battery Pack | 1 | Power source for motors |
+| Jumper Wires | Many | GPIO connections |
+| Laser-cut Plywood Enclosure (14x14x4) | 1 | Main game baord housing |
+| 3D Printed Parts | Several | Numberpad shells, LCD holders, game pieces, spinner mounts, dowel, dowel stands |
+| Velcro Conveyor Belt (rubber + sandpaper) | 2 | Player point tracking and movement to end and back |
+| Acrylic paint, clay, watercolor | N/A | Meadow-themed decoration |
+
+**Total Team Spend: $64 out of pocket ($135 total value)**
+
+---
+
+## How It Works
+
