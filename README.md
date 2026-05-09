@@ -140,5 +140,16 @@ Math, competitiveness, and hands on goals were best met. Hands-on and teamwork s
 - Parallel input - resolved by using asyncio so both keypads could be read simultaneously.
 - Wire Management - some wires were exposed as the keypads were external, drawing criticism during showcase; future builds should route those wires internally or cover with electrical tape.
 
-  **If we started over:**
-  
+**If we started over:**
+- Introduce belt guide blocks from the start to prevent the drift or position stands better beforehand to reduce drift.
+- Plan for spinner to be integrated in the early stages of iteration than in the very end.
+- Add an active buzzer to play victory tunes to increase game diversity to kids.
+- Have all members cross-train in CAD, wiring , and coding early for better collaboration.       **For me specially, I believe if I went more in depth in Micropython and how to wire           electronics neater, the team would not have been struggling with deadlines in the end. I       should have been more diverse in my skills, which is what I'm learning now for the future.**
+- Work incrementally every day rather than in late sprints.
+
+---
+
+## Budget Summary
+
+| Category | Spent |
+|---|---|
