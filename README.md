@@ -4,6 +4,12 @@
 
 ---
 
+## My Role
+
+I served as **CAD Lead and a Project Manager**, responsible for all crucial SolidWorks parts and assemblies, the box and conveyor belt design, 3D printed game pieces, support on electronical wiring & software, and team coordination towards the final build. 
+
+---
+
 ## Overview
 
 Fraction Frenzy is an interactive, competitive educational team game that is built to help 5th graders practice **fraction addition with different denominators**. Designed and presented at the Melrose Leadership Academy in Oakland, California, the game combines physical engineering with embedded electronics to create an engaging learning experience. 
@@ -153,3 +159,18 @@ Math, competitiveness, and hands on goals were best met. Hands-on and teamwork s
 
 | Category | Spent |
 |---|---|
+| Keypads (x2) | $20 |
+| LCDs (x2) | $17 |
+| Velcro | $8.68 |
+| Rubber / Sandpaper | $7.99 + $10 |
+| **Total Out of Pocket** | **$64** |
+
+All other componenets (Pico, motor driver, batteries, breadboards, pla, plywood) were sourced from the Northeastern Makersapce
+
+---
+
+## Acknowledgements
+
+Build as a part of **Cornerstone of Engineering II** at Northeastern Univeristy - Oakland Campus. 
+Presented at **Melrose Leadership Academy**, Oakland, California. 
+Team: **JJDES Design** - Jonathan Li, Jonathan Lin, Dorian Mitchell, Elene Tsakadze, Sophia Zheng
