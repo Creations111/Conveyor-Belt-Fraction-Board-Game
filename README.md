@@ -6,7 +6,7 @@
 
 ## Demonstration Video
 
-[![Presentation Video](https://img.youtube.com/vi/qRW1JOPw_Ok/0.jpg)](https://youtu.be/qRW1JOPw_Ok)
+[Presentation Video](https://youtu.be/qRW1JOPw_Ok)
 
 ---
 
