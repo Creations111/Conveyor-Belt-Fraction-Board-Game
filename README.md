@@ -4,6 +4,12 @@
 
 ---
 
+## Demonstration Video
+
+[![Watch the video](https://img.youtube.com/vi/qRW1JOPw_Ok/0.jpg)](https://youtu.be/qRW1JOPw_Ok)
+
+---
+
 ## My Role
 
 I served as **CAD Lead and a Project Manager**, responsible for all crucial SolidWorks parts and assemblies, the box and conveyor belt design, 3D printed game pieces, support on electronical wiring & software, and team coordination towards the final build. 
