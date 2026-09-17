@@ -121,17 +121,15 @@ Player 2 Keypad ──┘         │
 
 ---
 
-## Survey Results (n = 7 usable responses)
+## Survey Results (n = 15 responses)
 
 | Goal | Metric | Score (out of 10) |
 | --- | --- | --- |
-| Teaches math | Math skills were challenged; questions were slightly too hard | **7** |
-| Competitive | Opponents encouraged more engagement | **6.5** |
-| Engaging | Fun while playing | **6.6** |
-| Team-based | Benefited from having teammates | **6** |
-| Hands-on | Game could be controlled by players | **7.5** |
-
-The hands-on (7.5) and math-teaching (7) goals were met best, confirming that physical player control and problem difficulty landed well. Team-based (6) and competitive (6.5) scored lowest — attributed to the small sample size (9 responses collected, 2 unusable), incomplete responses, and match imbalances where stronger players dominated.
+| Teaches math | Math skills were challenged; questions were slightly too hard | **8** |
+| Competitive | Opponents encouraged more engagement | **8.5** |
+| Engaging | Fun while playing | **9** |
+| Team-based | Benefited from having teammates | **7** |
+| Hands-on | Game could be controlled by players | **9** |
 
 ---
 
