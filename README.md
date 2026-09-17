@@ -3,7 +3,7 @@
 **Cornerstone of Engineering II — Northeastern University**
 *Jonathan Li, Jonathan Lin, Dorian Mitchell, Elene Tsakadze, Sophia Zheng | April 2026*
 
-
+<img width="1124" height="1102" alt="A6D5F5FC-4C48-4EA3-875E-30725CE127FB" src="https://github.com/user-attachments/assets/619cff47-75c3-46a4-bfbe-9435a03bf7ac" />
 
 ---
 
